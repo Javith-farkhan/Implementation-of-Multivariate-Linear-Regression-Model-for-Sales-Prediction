@@ -54,7 +54,7 @@ l.predict([[150.3,240.5,234.5]])
 ```
 
 ## Output:
-![Gitlogo](Multivariant.png)
+![Gitlogo](Mulivariant.png)
 
 
 ## Result:
